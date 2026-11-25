@@ -2,7 +2,7 @@
 
 A static site: no build step and no server code. Open `index.html`.
 
-## Updating during the season — edit ONE file: `js/updates.js`
+## Updating during the season — edit ONE file: `updates.js`
 
 It holds a block of plain text. Under each `WEEK n` line:
 
@@ -17,11 +17,10 @@ It holds a block of plain text. Under each `WEEK n` line:
 
 Upload the edited `updates.js` to your host. Visitors' saved picks are stored per game, so they survive updates.
 
-## Files
+## Files (all in one folder)
 
-- `js/updates.js` – the only file you edit
-- `js/updates-parser.js` – reads that text
-- `js/data.js` – teams, Weeks 1–11 results, full schedule
-- `js/league.js`, `js/tiebreakers.js`, `js/simulator.js` – engine
-- `js/app.js`, `js/colors.js`, `js/rules.js`, `css/styles.css`, `index.html` – the site
-- `tests/test.js` – run with `node tests/test.js`
+- `updates.js` – the only file you edit
+- `updates-parser.js` – reads that text
+- `data.js` – teams, Weeks 1–11 results, full schedule
+- `league.js`, `tiebreakers.js`, `simulator.js` – engine
+- `app.js`, `colors.js`, `rules.js`, `styles.css`, `index.html` – the site
