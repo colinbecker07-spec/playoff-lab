@@ -40,6 +40,7 @@ cardinals 37.2
 browns 67.5
 buccaneers 67.3
 # finals (add lines like  packers 24, rams 17  here)
+packers 13, rams 26
 
 # ---------- Week 13 ----------
 WEEK 13
