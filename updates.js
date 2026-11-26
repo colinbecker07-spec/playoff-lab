@@ -44,14 +44,14 @@ packers 13, rams 26
 
 # ---------- Week 13 ----------
 WEEK 13
-rams 51.7
-falcons 19.8
-bears 47.7
-browns 19.9
-saints 33.3
-giants 17.5
-titans 36.7
-buccaneers 70.4
+rams 54.3
+falcons 20.0
+bears 47.4
+browns 20.1
+saints 35.4
+giants 17.4
+titans 36.8
+buccaneers 69.6
 cardinals 52.5
 broncos 91.7
 vikings 69.2
