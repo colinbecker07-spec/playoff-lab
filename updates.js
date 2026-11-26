@@ -135,7 +135,7 @@ titans 34.7
 chargers 22.6
 buccaneers 36.6
 cardinals 60.2
-bears 54.1
+bears 54.4
 49ers 92
 packers 48.4
 # finals (add lines like  packers 24, rams 17  here)
