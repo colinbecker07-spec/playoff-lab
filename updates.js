@@ -74,8 +74,8 @@ commanders 36
 raiders 34.3
 bengals 47.5
 seahawks 76.8
-49ers 62.8
-packers 38.7
+49ers 60.3
+packers 37.5
 jaguars 77.3
 # finals (add lines like  packers 24, rams 17  here)
 
@@ -85,7 +85,7 @@ chargers 17.3
 eagles 19.2
 bills 62.9
 panthers 29.8
-packers 82.3
+packers 81.5
 texans 45.7
 giants 62.8
 titans 41.3
@@ -94,7 +94,7 @@ buccaneers 71.3
 commanders 68.2
 cardinals 48.5
 raiders 18.1
-rams 64.9
+rams 67.7
 vikings 49
 chiefs 89.3
 # finals (add lines like  packers 24, rams 17  here)
@@ -102,9 +102,9 @@ chiefs 89.3
 # ---------- Week 16 ----------
 WEEK 16
 eagles 22.3
-bears 60.1
+bears 61.9
 broncos 40.5
-seahawks 48
+seahawks 45.9
 ravens 57.9
 dolphins 38.4
 saints 65.6
@@ -132,11 +132,11 @@ patriots 30.1
 jets 28.4
 titans 34.7
 chargers 22.6
-buccaneers 38.8
+buccaneers 36.6
 cardinals 60.2
 bears 54.1
 49ers 92
-packers 50.2
+packers 48.4
 # finals (add lines like  packers 24, rams 17  here)
 
 # ---------- Week 18 ----------
@@ -147,14 +147,14 @@ bengals 84.4
 colts 24.6
 cardinals 10.3
 broncos 72.3
-packers 47
+packers 45.2
 texans 83.4
 chiefs 92.4
 vikings 49.4
 saints 35.8
 patriots 63.3
 giants 66.9
-rams 59.4
+rams 62
 ravens 44.9
 commanders 38
 # finals (add lines like  packers 24, rams 17  here)
