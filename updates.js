@@ -44,6 +44,7 @@ packers 13, rams 26
 bears 39, lions 35
 eagles 39, cowboys 38
 chiefs 10, bills 13
+broncos 5, steelers 27
 
 # ---------- Week 13 ----------
 WEEK 13
